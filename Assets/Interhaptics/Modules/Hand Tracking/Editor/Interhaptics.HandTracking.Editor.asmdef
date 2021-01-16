@@ -1,0 +1,19 @@
+{
+    "name": "Interhaptics.HandTracking.Editor",
+    "references": [
+        "Interhaptics.Core",
+        "Interhaptics.Editor",
+        "Interhaptics.HandTracking"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

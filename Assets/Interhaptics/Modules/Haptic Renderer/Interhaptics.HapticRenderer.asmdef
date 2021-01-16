@@ -1,0 +1,14 @@
+{
+    "name": "Interhaptics.HapticRenderer",
+    "references": [
+        "Interhaptics.Core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

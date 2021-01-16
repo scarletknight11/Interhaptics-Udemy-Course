@@ -1,0 +1,21 @@
+{
+    "name": "Interhaptics.Editor",
+    "references": [
+        "Interhaptics.Core",
+        "Interhaptics.Assets",
+        "Interhaptics.HandTracking",
+        "Interhaptics.HapticRenderer",
+        "Interhaptics.InteractionBuilder"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

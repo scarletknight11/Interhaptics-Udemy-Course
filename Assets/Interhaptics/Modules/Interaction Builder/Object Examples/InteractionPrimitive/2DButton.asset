@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5974e686a53b0544b84f3c8a94983cc, type: 3}
+  m_Name: 2DButton
+  m_EditorClassIdentifier: 
+  interactionStrategy: 0
+  interactionTrigger: 4
+  bodyPart: 7
+  overrideHapticFeedbackDuringInteractions: 1
+  hapticInteractionFeedback: {fileID: 0}
+  renderStiffness: 0
+  stiffnessEvaluationMode: 0
+  constantStiffnessFeedback: 0.3
+  renderTexture: 0
+  hapticMetric: 0
+  degreeValueCorresponding: 360
+  renderVibration: 0
+  vibrationEvaluationMode: 1
+  ySpace: 1
+  enableMaximalConstraint: 1
+  maximalConstraint: 0.05
+  enableMinimalConstraint: 1
+  minimalConstraint: 0

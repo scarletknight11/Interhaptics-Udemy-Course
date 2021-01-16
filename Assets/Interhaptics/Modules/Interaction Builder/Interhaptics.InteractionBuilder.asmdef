@@ -1,0 +1,17 @@
+{
+    "name": "Interhaptics.InteractionBuilder",
+    "references": [
+        "Interhaptics.Core",
+        "Interhaptics.HandTracking",
+        "Interhaptics.HapticRenderer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
